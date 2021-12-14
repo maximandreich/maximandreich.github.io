@@ -5,9 +5,9 @@
       "quantity": 50,
       "price": 506,
       "producer": "Renner - Kutch",
-      "cайт": "http://stephen.org",
-      "кассир": "Glen",
-      "менеджер": "Jenifer"
+      "site": "http://stephen.org",
+      "cashier": "Glen",
+      "manager": "Jenifer"
     },
     {
       "Id": "69c01ecc-1c1b-5690-8754-03d17bfa6942",
@@ -15,9 +15,9 @@
       "quantity": 94,
       "price": 192,
       "producer": "Zulauf, O'Keefe and Hudson",
-      "cайт": "https://laurine.org",
-      "кассир": "Elyse",
-      "менеджер": "Sylvester"
+      "site": "https://laurine.org",
+      "cashier": "Elyse",
+      "manager": "Sylvester"
     },
     {
       "Id": "6bcaefa8-7d14-5e26-a30c-3459a4c3bd85",
@@ -25,9 +25,9 @@
       "quantity": 71,
       "price": 563,
       "producer": "Hoppe, Ebert and Weissnat",
-      "cайт": "http://fletcher.info",
-      "кассир": "Kaleb",
-      "менеджер": "Will"
+      "site": "http://fletcher.info",
+      "cashier": "Kaleb",
+      "manager": "Will"
     },
     {
       "Id": "3752292d-4835-57ee-90b0-2d22b6693d1e",
@@ -35,9 +35,9 @@
       "quantity": 31,
       "price": 102,
       "producer": "West - McGlynn",
-      "cайт": "http://noe.com",
-      "кассир": "Kip",
-      "менеджер": "Sylvester"
+      "site": "http://noe.com",
+      "cashier": "Kip",
+      "manager": "Sylvester"
     },
     {
       "Id": "46dca9ac-f8e7-5d39-b6d5-e548e9decd54",
@@ -45,9 +45,9 @@
       "quantity": 48,
       "price": 657,
       "producer": "Yost, Hodkiewicz and Franecki",
-      "cайт": "https://alexzander.name",
-      "кассир": "Julia",
-      "менеджер": "Sylvester"
+      "site": "https://alexzander.name",
+      "cashier": "Julia",
+      "manager": "Sylvester"
     },
     {
       "Id": "40692ea4-39a1-5713-84c9-acbdf2103928",
@@ -55,9 +55,9 @@
       "quantity": 80,
       "price": 938,
       "producer": "Schinner, Carter and Gerhold",
-      "cайт": "http://deshaun.com",
-      "кассир": "Roger",
-      "менеджер": "Ericka"
+      "site": "http://deshaun.com",
+      "cashier": "Roger",
+      "manager": "Ericka"
     },
     {
       "Id": "2792b64d-8906-5eda-a377-a9e355d22384",
@@ -65,9 +65,9 @@
       "quantity": 45,
       "price": 920,
       "producer": "Lowe, Osinski and Paucek",
-      "cайт": "http://kyler.biz",
-      "кассир": "Theodore",
-      "менеджер": "Will"
+      "site": "http://kyler.biz",
+      "cashier": "Theodore",
+      "manager": "Will"
     },
     {
       "Id": "0b76ca75-0a8f-55ce-98c6-350edfd666a6",
@@ -75,9 +75,9 @@
       "quantity": 64,
       "price": 434,
       "producer": "Wolff, Fay and Dach",
-      "cайт": "https://blair.net",
-      "кассир": "Damion",
-      "менеджер": "Ericka"
+      "site": "https://blair.net",
+      "cashier": "Damion",
+      "manager": "Ericka"
     },
     {
       "Id": "974b459f-c79d-5a4a-92d1-afbd95c3413a",
@@ -85,9 +85,9 @@
       "quantity": 71,
       "price": 141,
       "producer": "Langosh - Brekke",
-      "cайт": "http://edgar.name",
-      "кассир": "Carli",
-      "менеджер": "Will"
+      "site": "http://edgar.name",
+      "cashier": "Carli",
+      "manager": "Will"
     },
     {
       "Id": "136685d6-8a23-5fdc-adc7-b7590f7cd830",
@@ -95,9 +95,9 @@
       "quantity": 80,
       "price": 866,
       "producer": "Gorczany and Sons",
-      "cайт": "http://sally.net",
-      "кассир": "Liana",
-      "менеджер": "Sylvester"
+      "site": "http://sally.net",
+      "cashier": "Liana",
+      "manager": "Sylvester"
     },
     {
       "Id": "39fa273e-138a-5a40-a415-28a84b49ffc9",
@@ -105,9 +105,9 @@
       "quantity": 74,
       "price": 431,
       "producer": "Borer, Denesik and Schoen",
-      "cайт": "https://lorine.com",
-      "кассир": "Oceane",
-      "менеджер": "Sylvester"
+      "site": "https://lorine.com",
+      "cashier": "Oceane",
+      "manager": "Sylvester"
     },
     {
       "Id": "fb98cfda-a4b3-5843-bf44-9cffcf1de180",
@@ -115,9 +115,9 @@
       "quantity": 69,
       "price": 687,
       "producer": "Quitzon, Skiles and Powlowski",
-      "cайт": "https://viva.biz",
-      "кассир": "Aurelio",
-      "менеджер": "Jenifer"
+      "site": "https://viva.biz",
+      "cashier": "Aurelio",
+      "manager": "Jenifer"
     },
     {
       "Id": "92806bae-4a15-500f-a4fd-3c4e561a01e1",
@@ -125,9 +125,9 @@
       "quantity": 16,
       "price": 574,
       "producer": "Funk - Glover",
-      "cайт": "http://tyrese.info",
-      "кассир": "Hannah",
-      "менеджер": "Ericka"
+      "site": "http://tyrese.info",
+      "cashier": "Hannah",
+      "manager": "Ericka"
     },
     {
       "Id": "c25dc786-a250-5691-be24-47db6dc88104",
@@ -135,9 +135,9 @@
       "quantity": 47,
       "price": 304,
       "producer": "Deckow LLC",
-      "cайт": "http://obie.net",
-      "кассир": "Cleora",
-      "менеджер": "Will"
+      "site": "http://obie.net",
+      "cashier": "Cleora",
+      "manager": "Will"
     },
     {
       "Id": "f4ff23d2-dacc-549f-be58-8ef90ee52256",
@@ -145,9 +145,9 @@
       "quantity": 88,
       "price": 377,
       "producer": "Wilderman, Blanda and Bauch",
-      "cайт": "https://andres.org",
-      "кассир": "Tyrique",
-      "менеджер": "Jenifer"
+      "site": "https://andres.org",
+      "cashier": "Tyrique",
+      "manager": "Jenifer"
     },
     {
       "Id": "77701102-9cd6-5f58-8449-9446422cfcfe",
@@ -155,9 +155,9 @@
       "quantity": 48,
       "price": 394,
       "producer": "Jakubowski, Spinka and Connelly",
-      "cайт": "http://annalise.org",
-      "кассир": "Tyrique",
-      "менеджер": "Jenifer"
+      "site": "http://annalise.org",
+      "cashier": "Tyrique",
+      "manager": "Jenifer"
     },
     {
       "Id": "f420a63b-6a9f-5744-af4a-44f91294910d",
@@ -165,9 +165,9 @@
       "quantity": 79,
       "price": 900,
       "producer": "Mertz, Goodwin and Rowe",
-      "cайт": "https://rita.net",
-      "кассир": "Oda",
-      "менеджер": "Sylvester"
+      "site": "https://rita.net",
+      "cashier": "Oda",
+      "manager": "Sylvester"
     },
     {
       "Id": "39e7f8e6-3543-5054-8538-0b7c6ce16d8e",
@@ -175,9 +175,9 @@
       "quantity": 20,
       "price": 752,
       "producer": "Crooks, O'Keefe and Hoppe",
-      "cайт": "https://aglae.info",
-      "кассир": "Billie",
-      "менеджер": "Will"
+      "site": "https://aglae.info",
+      "cashier": "Billie",
+      "manager": "Will"
     },
     {
       "Id": "af454ba5-86a1-5bcd-beb2-52222736bea5",
@@ -185,9 +185,9 @@
       "quantity": 29,
       "price": 918,
       "producer": "Lang and Sons",
-      "cайт": "https://marian.name",
-      "кассир": "Crawford",
-      "менеджер": "Jenifer"
+      "site": "https://marian.name",
+      "cashier": "Crawford",
+      "manager": "Jenifer"
     },
     {
       "Id": "df4de114-990a-5411-adaf-b41b4baa9aa8",
@@ -195,9 +195,9 @@
       "quantity": 36,
       "price": 438,
       "producer": "Cremin - Shields",
-      "cайт": "http://yasmeen.net",
-      "кассир": "Irwin",
-      "менеджер": "Ericka"
+      "site": "http://yasmeen.net",
+      "cashier": "Irwin",
+      "manager": "Ericka"
     },
     {
       "Id": "fb1d2e34-34fa-5fe3-b2f2-fd20bf5cf033",
@@ -205,9 +205,9 @@
       "quantity": 40,
       "price": 622,
       "producer": "Weissnat - Brekke",
-      "cайт": "https://dell.org",
-      "кассир": "Melyna",
-      "менеджер": "Will"
+      "site": "https://dell.org",
+      "cashier": "Melyna",
+      "manager": "Will"
     },
     {
       "Id": "82e8d6c8-5b6b-5470-ad1c-169e0ab0cdcf",
@@ -215,9 +215,9 @@
       "quantity": 30,
       "price": 389,
       "producer": "Douglas Inc",
-      "cайт": "http://kendrick.net",
-      "кассир": "Declan",
-      "менеджер": "Sylvester"
+      "site": "http://kendrick.net",
+      "cashier": "Declan",
+      "manager": "Sylvester"
     },
     {
       "Id": "0d6a34d4-8fab-5ea1-a5cd-59aad23403db",
@@ -225,9 +225,9 @@
       "quantity": 11,
       "price": 658,
       "producer": "Brown - Greenfelder",
-      "cайт": "http://murray.org",
-      "кассир": "Dagmar",
-      "менеджер": "Jenifer"
+      "site": "http://murray.org",
+      "cashier": "Dagmar",
+      "manager": "Jenifer"
     },
     {
       "Id": "bd68149a-2083-518c-8712-17526786cbff",
@@ -235,9 +235,9 @@
       "quantity": 1,
       "price": 224,
       "producer": "Kris - Bosco",
-      "cайт": "http://theodora.com",
-      "кассир": "Garett",
-      "менеджер": "Will"
+      "site": "http://theodora.com",
+      "cashier": "Garett",
+      "manager": "Will"
     },
     {
       "Id": "c3930f02-e6ad-52b6-99b7-ccc17a7cd873",
@@ -245,9 +245,9 @@
       "quantity": 92,
       "price": 69,
       "producer": "Carroll, Kunde and Wilderman",
-      "cайт": "http://sonya.biz",
-      "кассир": "Zaria",
-      "менеджер": "Will"
+      "site": "http://sonya.biz",
+      "cashier": "Zaria",
+      "manager": "Will"
     },
     {
       "Id": "a2459f4f-f3c9-5658-9633-a176bcd88a46",
@@ -255,9 +255,9 @@
       "quantity": 93,
       "price": 211,
       "producer": "Schumm, Wiegand and Armstrong",
-      "cайт": "http://calista.com",
-      "кассир": "Arlene",
-      "менеджер": "Jenifer"
+      "site": "http://calista.com",
+      "cashier": "Arlene",
+      "manager": "Jenifer"
     },
     {
       "Id": "215780e2-0991-5f7e-b4d4-49fe8488ba7a",
@@ -265,9 +265,9 @@
       "quantity": 79,
       "price": 745,
       "producer": "Gibson LLC",
-      "cайт": "http://andres.name",
-      "кассир": "Helene",
-      "менеджер": "Ericka"
+      "site": "http://andres.name",
+      "cashier": "Helene",
+      "manager": "Ericka"
     },
     {
       "Id": "1f284ec3-43ae-55e9-ae67-cfe4258e65a9",
@@ -275,9 +275,9 @@
       "quantity": 25,
       "price": 75,
       "producer": "Hudson LLC",
-      "cайт": "https://viola.info",
-      "кассир": "Marcel",
-      "менеджер": "Will"
+      "site": "https://viola.info",
+      "cashier": "Marcel",
+      "manager": "Will"
     },
     {
       "Id": "78ebb5e6-4137-59c9-b955-59fa1ac850ac",
@@ -285,9 +285,9 @@
       "quantity": 61,
       "price": 549,
       "producer": "Becker Group",
-      "cайт": "https://quentin.biz",
-      "кассир": "Kurtis",
-      "менеджер": "Sylvester"
+      "site": "https://quentin.biz",
+      "cashier": "Kurtis",
+      "manager": "Sylvester"
     },
     {
       "Id": "85255a93-a043-5e3f-bff8-4d121db15dde",
@@ -295,9 +295,9 @@
       "quantity": 51,
       "price": 963,
       "producer": "Klein LLC",
-      "cайт": "http://vivien.name",
-      "кассир": "Kathleen",
-      "менеджер": "Will"
+      "site": "http://vivien.name",
+      "cashier": "Kathleen",
+      "manager": "Will"
     },
     {
       "Id": "fb3130ea-7302-5a74-a8c4-6af1328a0c3a",
@@ -305,9 +305,9 @@
       "quantity": 26,
       "price": 751,
       "producer": "Sawayn Inc",
-      "cайт": "https://irwin.info",
-      "кассир": "Angelo",
-      "менеджер": "Sylvester"
+      "site": "https://irwin.info",
+      "cashier": "Angelo",
+      "manager": "Sylvester"
     },
     {
       "Id": "abc5f056-8d10-57cc-845c-6977a4459f79",
@@ -315,9 +315,9 @@
       "quantity": 66,
       "price": 547,
       "producer": "McDermott and Sons",
-      "cайт": "https://christian.name",
-      "кассир": "Jarrett",
-      "менеджер": "Sylvester"
+      "site": "https://christian.name",
+      "cashier": "Jarrett",
+      "manager": "Sylvester"
     },
     {
       "Id": "a7c90918-4e50-562e-b5c0-c96fab3f6caa",
@@ -325,9 +325,9 @@
       "quantity": 46,
       "price": 353,
       "producer": "Davis Group",
-      "cайт": "http://carli.info",
-      "кассир": "Maeve",
-      "менеджер": "Will"
+      "site": "http://carli.info",
+      "cashier": "Maeve",
+      "manager": "Will"
     },
     {
       "Id": "4105bdb7-26e3-5944-a287-1a95aa9822f0",
@@ -335,9 +335,9 @@
       "quantity": 4,
       "price": 375,
       "producer": "Roob - Pagac",
-      "cайт": "https://jaydon.info",
-      "кассир": "Marcella",
-      "менеджер": "Sylvester"
+      "site": "https://jaydon.info",
+      "cashier": "Marcella",
+      "manager": "Sylvester"
     },
     {
       "Id": "f5966f2b-808d-539b-9b6f-ac3097574395",
@@ -345,9 +345,9 @@
       "quantity": 19,
       "price": 667,
       "producer": "Muller, Jerde and Ullrich",
-      "cайт": "https://amya.com",
-      "кассир": "Emmanuel",
-      "менеджер": "Sylvester"
+      "site": "https://amya.com",
+      "cashier": "Emmanuel",
+      "manager": "Sylvester"
     },
     {
       "Id": "230148fd-7aef-5b8b-938c-ca74fa6a4ed1",
@@ -355,9 +355,9 @@
       "quantity": 17,
       "price": 146,
       "producer": "Lesch, Schowalter and Herzog",
-      "cайт": "http://omari.name",
-      "кассир": "Delilah",
-      "менеджер": "Ericka"
+      "site": "http://omari.name",
+      "cashier": "Delilah",
+      "manager": "Ericka"
     },
     {
       "Id": "4afed267-4ec4-566f-b4e6-80af69a615d9",
@@ -365,8 +365,8 @@
       "quantity": 61,
       "price": 260,
       "producer": "Cartwright and Sons",
-      "cайт": "http://clemens.org",
-      "кассир": "Priscilla",
-      "менеджер": "Will"
+      "site": "http://clemens.org",
+      "cashier": "Priscilla",
+      "manager": "Will"
     }
   ]
