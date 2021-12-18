@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Robyn",
+    "age": 26,
+    "salary": 257,
+    "specialty": "speaker"
+  },
+  {
+    "name": "Ernestine",
+    "age": 29,
+    "salary": 125,
+    "specialty": "speaker"
+  },
+  {
+    "name": "Mark",
+    "age": 19,
+    "salary": 987,
+    "specialty": "manager"
+  },
+  {
+    "name": "Verona",
+    "age": 23,
+    "salary": 463,
+    "specialty": "personal"
+  },
+  {
+    "name": "Britney",
+    "age": 31,
+    "salary": 204,
+    "specialty": "personal"
+  },
+  {
+    "name": "Reed",
+    "age": 21,
+    "salary": 455,
+    "specialty": "manager"
+  },
+  {
+    "name": "Aditya",
+    "age": 29,
+    "salary": 218,
+    "specialty": "worker"
+  },
+  {
+    "name": "Delia",
+    "age": 34,
+    "salary": 435,
+    "specialty": "personal"
+  },
+  {
+    "name": "Candida",
+    "age": 31,
+    "salary": 715,
+    "specialty": "personal"
+  },
+  {
+    "name": "Alan",
+    "age": 19,
+    "salary": 643,
+    "specialty": "personal"
+  },
+  {
+    "name": "Damion",
+    "age": 36,
+    "salary": 266,
+    "specialty": "manager"
+  },
+  {
+    "name": "Trevion",
+    "age": 36,
+    "salary": 415,
+    "specialty": "manager"
+  },
+  {
+    "name": "Kennedy",
+    "age": 38,
+    "salary": 202,
+    "specialty": "personal"
+  },
+  {
+    "name": "Turner",
+    "age": 28,
+    "salary": 812,
+    "specialty": "worker"
+  }
+]
