@@ -1,0 +1,92 @@
+[
+    {
+        "userName": "Daryr",
+        "userId": 1
+        "id": 1,
+        "title": "My first post",
+        "date": "28.02.2022"
+        "description": "This is my first post and I want to fill this space with something interesting and useful, but I can only write a lot of random letters to fill it."
+        "favourite": 0
+    },
+    {
+        "userName": "Daryr",
+        "userId": 1
+        "id": 2,
+        "title": "A lot of random letters",
+        "date": "28.02.2022"
+        "description": "sdfg dh dfd fhdh jpl[fd [hdfph[ dfhj ;lcjh;lkfgjlhd jrihjd ;fjldj ;kledhfgld;h ;df hjdx;lg j;dklrjdhjd;hj lhaklhjfsegf hkjags lkgslkgelh lcuhclkbjn ,msetnmbdmgf,c vbcxsl uehr bxcv,b cn"
+        "favourite": 0
+    },
+    {
+        "userName": "MagicMan",
+        "userId": 32
+        "id": 3,
+        "title": "Daryr bot",
+        "date": "08.03.2022"
+        "description": "Daryr is bot i think, that's all"
+        "favourite": 0
+    },
+    {
+        "userName": "User",
+        "userId": 88
+        "id": 4,
+        "title": "It is so boring",
+        "date": "20.12.2022"
+        "description": "it is so boring to create this json for my android project, but I must do it if I want to pass the exam, if it can be called like this"
+        "favourite": 0
+    },
+    {
+        "userName": "Maxim",
+        "userId": 2
+        "id": 5,
+        "title": "The kids aren't alright",
+        "date": "20.12.2022"
+        "description": "Chances thrown Nothing's free Longing for, used to be Still it's hard, hard to see Fragile lives Shattered dreams (go!)"
+        "favourite": 0
+    },
+    {
+        "userName": "Maxim",
+        "userId": 2
+        "id": 6,
+        "title": "Hmm...",
+        "date": "20.12.2022"
+        "description": "Maybe I can use different random text to fill this json"
+        "favourite": 0
+    },
+    {
+        "userName": "Maxim",
+        "userId": 2
+        "id": 7,
+        "title": "Hmm...",
+        "date": "20.12.2022"
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        "favourite": 0
+    },
+    {
+        "userName": "User",
+        "userId": 88
+        "id": 8,
+        "title": "Please, stop it",
+        "date": "20.12.2022"
+        "description": "Stop adding random text, pls"
+        "favourite": 0
+    },
+    {
+        "userName": "Maxim",
+        "userId": 2
+        "id": 9,
+        "title": "Lorem Ipsum history",
+        "date": "20.12.2022"
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32."
+        "favourite": 0
+    },
+    {
+        "userName": "Maxim",
+        "userId": 2
+        "id": 10,
+        "title": "Ok, I think that's enough",
+        "date": "20.12.2022"
+        "description": "Ok, I think that's enough. This will be last post... Or it won't?.."
+        "favourite": 0
+    },
+]
